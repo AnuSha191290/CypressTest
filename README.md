@@ -1,4 +1,4 @@
-#Cypress Project: Automation Test Store
+# Cypress Project: Automation Test Store
 
 Website Link: https://automationteststore.com
 
